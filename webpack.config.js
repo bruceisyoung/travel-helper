@@ -10,7 +10,7 @@ const babelSettings = JSON.parse(fs.readFileSync(".babelrc"))
 
 const config = {
   entry: [
-    './src/index.js'
+    './src/index.jsx'
   ],
   output: {
     path: __dirname,
