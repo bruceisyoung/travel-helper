@@ -1,0 +1,29 @@
+{
+  "name": "travel-helper",
+  "version": "1.0.0",
+  "description": "a personal traveling helper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bruceisyoung/travel-helper.git"
+  },
+  "author": "Bruce Isyoung",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bruceisyoung/travel-helper/issues"
+  },
+  "homepage": "https://github.com/bruceisyoung/travel-helper#readme",
+  "dependencies": {
+    "babel": "^6.23.0",
+    "react": "^16.0.0",
+    "react-dom": "^16.0.0",
+    "webpack": "^3.7.1"
+  },
+  "devDependencies": {
+    "babel-preset-stage-1": "^6.24.1",
+    "webpack-dev-server": "^2.9.1"
+  }
+}
